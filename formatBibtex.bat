@@ -1,0 +1,1 @@
+bibtool -r removeFields.rsc allCitations_BibTeX.bib -o allCitations_BibTeX_clean.bib
